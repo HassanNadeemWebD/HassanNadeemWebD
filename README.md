@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **JavaScript, React and Node.**
 
-- 📫 How to reach me **hn178139@gmail.com**
+- 📫 How to reach me **hassannadeem.dev@gmail.com**
 
 - ⚡ Fun fact **I think I have a good sense of Humour**
 
