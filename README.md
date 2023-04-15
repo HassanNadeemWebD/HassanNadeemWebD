@@ -36,3 +36,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hassannadeemwebd&show_icons=true&locale=en" alt="hassannadeemwebd" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hassannadeemwebd&" alt="hassannadeemwebd" /></p>
+
+
+<a href="http://www.github.com/HassanNadeemWebD"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=midhatahir&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
